@@ -73,6 +73,8 @@ function check() {
         let res = document.createElement("h2");
         res.classList.add("resu");
         res.innerHTML = ` Match Drawn`;
+         let msg = new SpeechSynthesisUtterance(` Match Draw `);
+                      window.speechSynthesis.speak(msg);
         h1.appendChild(res);
         setTimeout(() => {
             reset();
