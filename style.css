@@ -109,13 +109,14 @@ button:hover{
     font-size: 1.5rem;
   }
   .container {
-    max-width: 90%;   /* पूरे screen में फैलने दो */
+    max-width: 80%;   
     gap: 3px;
-    margin: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
   }
   .box {
     flex: 1 0 30%;
-    font-size: 1.8rem; /* smaller text */
+    font-size: 1.8rem; 
   }
   button {
     width: 100px;
