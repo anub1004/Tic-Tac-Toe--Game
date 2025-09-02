@@ -6,7 +6,7 @@ Play against a friend on the same device with an interactive and responsive UI.
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to play Tic Tac Toe](https://anub1004.github.io/Tic-Tac-Toe/)  
+👉 [Click here to play Tic Tac Toe]  (http://to-do-game-eta.vercel.app)  
 
 ---
 
